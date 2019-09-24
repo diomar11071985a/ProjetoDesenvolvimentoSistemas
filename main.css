@@ -7,11 +7,22 @@ body {
   color: white;
 }
 .generica {
-  font-size: 20px;
+  font-size: 36px;
   color: white;
+  background: #363636;
 
 }
 h1{
   font-size: 60px;
   color: red;
+}
+
+h4{
+  font-size: 50px;
+  color: rgb(49, 49, 192);
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
