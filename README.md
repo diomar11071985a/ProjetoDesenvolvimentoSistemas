@@ -16,5 +16,5 @@ Plano de Fundo Preto
 Então faremos de uma "Faculdade"
 
 Link para direcionar as paginas, após o / inserir nome de onde será direcionado
-https://diomar11071985a.github.io/ProjetoDesenvolvimentoSistemas/
+https://diomar11071985a.github.io/ProjetoDesenvolvimentoSistemas/index.html
 

@@ -7,22 +7,43 @@ body {
   color: white;
 }
 .generica {
-  font-size: 36px;
-  color: white;
-  background: #363636;
+  font-size: 20px;
+  color: lightskyblue;
+  background: black;
 
 }
 h1{
-  font-size: 60px;
-  color: red;
+  font-size: 40px;
+  color: Salmon;
+}
+h3{
+  font-size: 20px;
+  color: lightskyblue;
 }
 
 h4{
-  font-size: 50px;
-  color: rgb(49, 49, 192);
-font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  color: lightskyblue;
+font-family: inherit;
 }
 
 h2{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: lightskyblue;
+}
+
+
+h5{
+  font-size: 20px;
+  color: rgb(173, 250, 250); 
+}
+
+h6{
+  font-size: 20px;
+  color: aqua;
+}
+
+h7{
+  font-size: 20px;
+  color: cadetblue;
 }
