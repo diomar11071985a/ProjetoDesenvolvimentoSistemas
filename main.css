@@ -7,9 +7,9 @@ body {
   color: white;
 }
 .generica {
-  font-size: 36px;
-  color: white;
-  background: #363636;
+  font-size: 20px;
+  color: lightskyblue;
+  background: black;
 
 }
 h1{
@@ -18,9 +18,9 @@ h1{
 }
 
 h4{
-  font-size: 50px;
-  color: rgb(49, 49, 192);
-font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+  color: lightskyblue;
+font-family: inherit;
 }
 
 h2{
