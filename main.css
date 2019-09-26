@@ -26,3 +26,9 @@ font-family: inherit;
 h2{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
+h5{
+  font-size: 20px;
+  color: rgb(173, 250, 250); 
+}
